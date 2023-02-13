@@ -1,7 +1,7 @@
 # <3 Deno
 
 [Deno](https://deno.land/manual@v1.30.3/introduction) is a relatively new JavaScript runtime.
-I find quite interesting and aesthetically appealing, in-line with the recent trend to rein in the worse-is-better law of software evolution.
+I find it quite interesting and aesthetically appealing, in-line with the recent trend to rein in the worse-is-better law of software evolution.
 This post explains why.
 
 The way I see it, the primary goal of Deno is to simplify development of software, relative to the status quo.
